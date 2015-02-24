@@ -1,0 +1,16 @@
+body {
+  background-color: #E62E00;
+  font-family: 'Montserrat', arial;
+}
+#clock {
+	font-family: 'Montserrat', arial;
+  height: 100px;
+  width: 800px;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  padding-top: 70px;
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 100px;
+}
